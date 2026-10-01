@@ -132,6 +132,5 @@
 "git.autofetch": false,
 "git.confirmSync": false,
 "git.enableSmartCommit": false,
-"git.postCommitCommand": "none",
-"git.openRepositoryInParentFolders": "never"
+"git.postCommitCommand": "none"
 }
