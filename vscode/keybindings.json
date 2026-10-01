@@ -1,0 +1,7 @@
+// Place your key bindings in this file to override the defaults
+[
+  { "key": "ctrl+w h", "command": "workbench.action.navigateLeft",  "when": "terminalFocus" },
+  { "key": "ctrl+w j", "command": "workbench.action.navigateDown",  "when": "terminalFocus" },
+  { "key": "ctrl+w k", "command": "workbench.action.navigateUp",    "when": "terminalFocus" },
+  { "key": "ctrl+w l", "command": "workbench.action.navigateRight", "when": "terminalFocus" }
+]
