@@ -25,9 +25,6 @@
     "workbench.editor.enablePreview": false,
     "chat.disableAIFeatures": true,
     "breadcrumbs.enabled": false,
-    "workbench.colorCustomizations": {
-        "[Dark Modern]": {}
-    },
     "workbench.colorTheme": "Tokyo Night",
     "workbench.preferredDarkColorTheme": "Monokai",
     "workbench.tips.enabled": false,
@@ -132,4 +129,9 @@
 "workbench.editor.showTabs": "none",
 "workbench.panel.showLabels": false,
 "workbench.panel.defaultLocation": "right",
+"git.autofetch": false,
+"git.confirmSync": false,
+"git.enableSmartCommit": false,
+"git.postCommitCommand": "none",
+"git.openRepositoryInParentFolders": "never"
 }
